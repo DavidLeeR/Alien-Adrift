@@ -1,7 +1,7 @@
-**Alien Franchise Based Survival Game**
+**Alien: Adrift**
 
 **Description:**
-Command line survival game based on the Aliens franchise.
+Command line survival game based on the Aliens franchise (fan fiction)
 
 **Steps to compile and run program:**                                                   
 Requires g++ (GNU) compiler version 4.8.5                                                            
